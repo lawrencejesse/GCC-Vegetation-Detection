@@ -1,4 +1,7 @@
 Vegetation Analysis Tool
+
+##I'm a novice coder, this is one of my first scripts and i relied heavily on GPT-4 to assist.##
+
 This Python script provides an automated way to analyze vegetation from high-resolution NADIR photos. It calculates vegetation indices, applies a binary threshold to identify vegetation areas, and extracts GPS data from images. The results are saved in a CSV file for further analysis.
 
 Features
